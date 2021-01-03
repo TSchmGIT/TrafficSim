@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52c8adc4b25e5464180f379352731498, type: 3}
+  m_Name: DefaultStreetGenerator
+  m_EditorClassIdentifier: 
+  m_PrefabStraight: {fileID: 4541747664319147186, guid: 5b29ed806897173449bac60411d4bdf4,
+    type: 3}
+  m_PrefabTurnR: {fileID: 6552859127308170141, guid: ee6aa2b784285b840a49833b3c106193,
+    type: 3}
+  m_PrefabTurnL: {fileID: 0}
+  m_PrefabCrossT: {fileID: 0}
+  m_PrefabCrossFull: {fileID: 0}
+  m_Spawn: {fileID: 0}
+  m_StreetAmount: 100
+  m_TurnProbability: 0.1
